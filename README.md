@@ -14,7 +14,7 @@ Optimisation du site d’une photographe pour améliorer ses performances, acces
 1. Cloner le dépôt :
 
    ```bash
-   git clone https://github.com/votre-repo/nina-seo.git
+   git clone https://github.com/V1ct0r-V/Formation_OC-P4-Optimisation_Nina_Carducci
    cd nina-seo
    ```
 
